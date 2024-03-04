@@ -1,0 +1,393 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.left-sidebar{
+    border: 1px solid rgb(245, 238, 238);
+    min-width: 4%;
+    margin-left: 8px;
+    padding: 10px 10px;
+    margin-top: 8px;
+}
+
+
+main{
+    display: flex;
+    min-height: 100vh;
+}
+.sidebar-nav{
+    display: flex;   
+}
+.logo i{
+    font-size: 40px;
+}
+.handle{
+    margin-left: 6px;
+    margin-top: -6px;
+}
+.handle1{
+    font-size: 10px;
+    color: grey;
+}
+.handle2{
+    font-size: 12px;
+    font-weight: 600;
+}
+.profile-pic{
+    border: 1px solid black;
+    width: 35px;
+    height: 35px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sidebar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.design-mas{
+    display: flex;
+    justify-content: space-between;
+    padding: 7px;
+    margin-top: 10px;
+    align-items: center;
+}
+.design-mas:hover{
+    background-color: rgb(245, 238, 238);
+    border-radius: 10px;
+}
+.design-mas span{
+    font-size: 13px;
+    font-weight: 600;
+}
+.well{
+    font-size: 12px;
+    color: grey;
+    border: 1px solid rgb(245, 238, 238);
+    padding: 2px 6px;
+    border-radius: 10px;
+}
+#name{
+    width: 100%;
+    border: none;
+    outline: none;   
+}
+#name:hover{
+    background-color: rgb(245, 238, 238);
+    border-radius: 10px;
+}
+.cir{
+    float: right;
+    border: 1px solid grey;
+    padding: 0px 6px;
+    border-radius: 10px;
+}
+.userAdd{
+    margin-top: 50px;
+}
+.xd{
+    margin: 20px 0px;
+}
+.below-mg{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+    background-color: rgb(245, 238, 238);
+    border-radius: 10px;
+    padding: 4px 0px;
+}
+
+.btn{
+    background-color: black;
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 12px;
+    border-radius: 6px;
+    border: none;
+}
+.camOne{
+    color: rgb(194, 183, 183);
+    font-size: 22px;
+}
+.esty{
+    border: 1px solid rgb(245, 238, 238);
+}
+
+
+/* <---------------------------- left sidebar end ---------------------> */
+
+
+
+
+/* <------------------------------- right sidebar start --------------------> */
+.right1{
+    display: flex;
+    margin-right: 10px;
+    padding: 0px 10px;
+}
+.input-stl{
+    border: 1px solid rgb(245, 238, 238);
+    padding: 2px 4px;
+    border-radius: 6px;
+}
+.input-stl input{
+    border: none;
+    outline: none;
+}
+.input-stl i{
+    font-size: 14px;
+}
+.right-sidebar{
+    border: 1px solid rgb(245, 238, 238);
+    min-width: 80%;
+    margin-left: 8px;
+    padding: 10px 10px;
+    margin-top: 8px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid rgb(245, 238, 238);
+    padding: 0px 8px;
+    text-align: center;
+}
+.right1 i:not(.fa-magnifying-glass) {
+    margin-left: 10px;
+    border: 1px solid rgb(245, 238, 238);
+    padding: 0px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#jum{
+    border: none;
+    padding: 3px 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    outline: none;
+}
+.buck{
+    border: 1px solid rgb(245, 238, 238);
+    border-radius: 8px;
+    padding: 4px 8px;
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+}
+
+
+.left-section{
+    display: flex;
+    gap: 1rem;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.right-section span{
+    border: 1px solid rgb(245, 238, 238);
+    margin-right: 10px;
+    padding: 7px 10px;
+    font-size: 14px;
+    border-radius: 7px;
+}
+.end{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 130px;
+}
+.end div{
+    border: 1px solid rgb(245, 238, 238);
+    background-color: rgb(245, 238, 238);
+    margin-left: 10px;
+    border-radius: 8px;
+    font-size: 14px;
+    padding: 4px;
+}
+
+
+.num i{
+    border: 1px solid blue;
+    background-color: blue;
+    color: #fff;
+    padding: 3px 6px;
+    font-size: 10px;
+}
+
+/* <---------------- table section ---------------> */
+
+table{
+    width: 100%;
+}
+.foo{
+    border: 1px solid rgb(245, 238, 238);
+    margin-top: -16px;
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    font-size: 14px;
+    color: grey;
+    font-weight: 500;
+}
+.foo div{
+    border: 1px solid rgb(245, 238, 238);
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+.hgh th{
+    color: grey;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+
+/* .left-sidebar {
+    position: relative;
+}
+
+#toggleSidebarCheckbox {
+    display: none;
+    color: red;
+}
+
+.toggle-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+
+#toggleSidebarCheckbox:checked ~ .sidebar {
+    display: none;
+}
+
+.res-toggle{
+    border: 1px solid rgb(202, 186, 186);
+    min-width: 4%;
+    margin-left: 8px;
+    padding: 10px 10px;
+    margin-top: 8px;
+} */
+
+
+.hamburger, #check{
+    display: none;
+}
+
+
+.res-bar{
+    border: 1px solid rgb(245, 238, 238);
+    min-width: 4%;
+    margin-left: 8px;
+    padding: 10px 10px;
+    margin-top: 8px;
+}
+
+
+
+
+
+
+
+
+/* <------------------ media query start ----------------> */
+@media only screen and (max-width: 1126px){
+    /* .sidebar-nav{
+        display: none;
+    }
+    .design-mas span{
+        display: none;
+        text-align: center;
+    }
+    .well{
+        display: none;
+    }
+    .userAdd span{
+        display: none;
+    }
+    .val{
+        display: none;
+    }
+    .below-mg{
+        display: flex;
+        flex-direction: column;
+    }
+    .btn{
+        font-size: 8px;
+        padding: 4px;
+    } */
+
+    /* .sidebar, .design{
+        display: none;
+    } */
+    /* .left-sidebar label{
+        display: block;
+    } */
+
+   
+    .left-sidebar{
+        display: none;
+    }
+
+    .hamburger{
+        display: block;
+        font-size: 22px;
+    }
+
+    #check:checked ~ .left-sidebar{
+        display: block;
+        position: fixed;
+        z-index: 2;
+        background-color: rgb(233, 217, 217);
+    }
+    .right-sidebar{
+        width: 100%;
+    }
+
+
+}
+
+@media only screen and (max-width: 980px){
+    section{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 608px){
+    .input-stl input{
+        width: 30%;
+    }
+}
+@media only screen and (max-width: 356px){
+    .left-nav h3{
+        font-size: 18px;
+        font-weight: 600;
+    }
+    .input-stl i{
+        font-size: 10px;
+    }
+    .right1 i:not(.fa-magnifying-glass){
+        display: none;
+    }
+    
+}
+@media only screen and (max-width: 502px){
+    .end div span{
+        display: none;
+    }
+}

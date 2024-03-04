@@ -1,0 +1,92 @@
+[
+    {
+            "logo" : "<i class=\"fa-brands fa-wordpress\"></i>",
+            "name" : "Wix",
+            "description" : "Wix.com Ltd. is an Israeli software company, publicly listed in the US, that provides cloud-based web development services. It offers tools for creating HTML5 websites and mobile sites using online drag-and-drop editing.",
+            "members" : ["<i class=\"fa-solid fa-circle-user\"></i>","<i class=\"fa-solid fa-circle-user\"></i>"],
+            "categories" : ["authentication","validation"],
+            "tags" : ["#DigitalTransformation","#Services"],
+            "nextmeating" : "in 30 minutes"
+        },
+        {
+            "logo" : "<i class=\"fa-brands fa-shopify\"></i>",
+            "name" : "Shopify",
+            "description" : "No.1 eCommerce Platform for All Businesses. Start, Run + Grow Your Business with Shopify®. Customize Your Store With Our Website Builder. Trusted by Millions of Businesses. Shop Pay at Checkout.",
+            "members" : ["<i class=\"fa-solid fa-circle-user\"></i>","<i class=\"fa-solid fa-circle-user\"></i>","<i class=\"fa-solid fa-circle-user\"></i>","<i class=\"fa-solid fa-circle-user\"></i>"],
+            "categories" : ["E-commerce", "B2B"],
+            "tags" : ["#OnlineShopping","#DigitalTransformation"],
+            "nextmeating" : "Tomorrow"
+        },
+        {
+            "logo" : "<i class=\"fa-solid fa-w\"></i>",
+            "name" : "MailChimp",
+            "description" : "Create and automate personalized journeys for any customer scenario with full functionality of our Customer Journey Builder. Basic Automated Customer Journeys.",
+            "members" : ["<i class=\"fa-solid fa-circle-user\"></i>","<i class=\"fa-solid fa-circle-user\"></i>","<i class=\"fa-solid fa-circle-user\"></i>"],
+            "categories" : ["SAAS", "Maccle"],
+            "tags" : ["#Technology","#OnlineShopping"],
+            "nextmeating" : "Tomorrow"
+            },
+            {
+            "logo": "<i class=\"fa-brands fa-cc-paypal\"></i>",
+            "name" : "PayPal",
+            "description" : "PayPal is the faster, safer way to send and receive money or make an online payment. Get started or create a merchant account to accept payments.",
+            "members" : ["<i class=\"fa-solid fa-circle-user\"></i>"],
+            "categories" : ["Marketplace"],
+            "tags" : ["#DaySaleOnline","#OnlineShopping"],
+            "nextmeating" : "in 6 hours"
+            },
+            {
+            "logo" : "<i class=\"fa-brands fa-pied-piper-pp\"></i>",
+            "name" : "Disney",
+            "description" : "How much does Disney+ cost? Access unlimited entertainment with Disney+ Basic or Disney+ Premium: Disney+ Basic: Disney+ (With Ads) for the price of $7.99/month.",
+            "members" : ["<i class=\"fa-solid fa-circle-user\"></i>","<i class=\"fa-solid fa-circle-user\"></i>","<i class=\"fa-solid fa-circle-user\"></i>","<i class=\"fa-solid fa-circle-user\"></i>"],
+            "categories" : ["B2C", "B2B"],
+            "tags" : ["#BussinessTransition"],
+            "nextmeating" : "No contact"
+            },
+            {
+            "logo" : "<i class=\"fa-brands fa-fonticons\"></i>",
+            "name" : "Intercom",
+            "description" : "The only AI customer service solution you need · Get more done faster with our AI-enhanced workspace · Resolve 50% of customer questions. Instantly. ",
+            "members" : ["<i class=\"fa-solid fa-circle-user\"></i>","<i class=\"fa-solid fa-circle-user\"></i>"],
+            "categories" : ["Technology", "SAAS"],
+            "tags" : ["#ServiceInFinance","#SAAS"],
+            "nextmeating" : "in 1 hour"
+            },
+            {
+            "logo" : "<i class=\"fa-brands fa-google\"></i>",
+            "name" : "Google",
+            "description" : "we build a large community of coders",
+            "members" : ["<i class=\"fa-solid fa-circle-user\"></i>","<i class=\"fa-solid fa-circle-user\"></i>","<i class=\"fa-solid fa-circle-user\"></i>"],
+            "categories" : ["Finance", "Automation"],
+            "tags" : ["#SimpleFinance","#WebService"],
+            "nextmeating" : "in 30 minutes"
+            },
+            {
+            "logo" : "<i class=\"fa-brands fa-slack\"></i>",
+            "name" : "Evernote",
+            "description" : "Use Evernote to capture more than just words. Harness the power of the internet with Web Clipper. Scan and store your important files, documents, and images.",
+            "members" : ["<i class=\"fa-solid fa-circle-user\"></i>","<i class=\"fa-solid fa-circle-user\"></i>","<i class=\"fa-solid fa-circle-user\"></i>","<i class=\"fa-solid fa-circle-user\"></i>"],
+            "categories" : ["Transporation"],
+            "tags" : ["#LogisticTech","#flux"],
+            "nextmeating" : "Next Month"
+        },
+        {
+            "logo" : "<i class=\"fa-brands fa-microsoft\"></i>",
+            "name" : "Microsoft",
+            "description" : "Microsoft Corporation is an American multinational corporation and technology company headquartered in Redmond, Washington. It is also incorporated in Washington. ",
+            "members" : ["<i class=\"fa-solid fa-circle-user\"></i>","<i class=\"fa-solid fa-circle-user\"></i>","<i class=\"fa-solid fa-circle-user\"></i>"],
+            "categories" : ["Publishing", "B2C"],
+            "tags" : ["#B2CMarketing","#Portal"],
+            "nextmeating" : "No contact"
+        },
+        {
+            "logo" : "<i class= \"fa-brands fa-joomla\"></i>",
+            "name" : "Invision",
+            "description" : "InVision is the online whiteboard and productivity platform powering the future of work. See how InVision Freehand is purpose-built for team collaboration.",
+            "members" : ["<i class=\"fa-solid fa-circle-user\"></i>","<i class=\"fa-solid fa-circle-user\"></i>","<i class=\"fa-solid fa-circle-user\"></i>","<i class=\"fa-solid fa-circle-user\"></i>"],
+            "categories" : ["Web Services"],
+            "tags" : ["#Armdesign"],
+            "nextmeating" : "Next Month"
+        }
+]
